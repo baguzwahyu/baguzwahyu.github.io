@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Baguswp</title>
-    <link>https://baguzwahyu.github.io/series/</link>
+    <link>https://baguswp.com/series/</link>
     <description>Recent content in Series on Baguswp</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://baguzwahyu.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://baguswp.com/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Themes Guide</title>
-      <link>https://baguzwahyu.github.io/series/themes-guide/</link>
+      <link>https://baguswp.com/series/themes-guide/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://baguzwahyu.github.io/series/themes-guide/</guid>
+      <guid>https://baguswp.com/series/themes-guide/</guid>
       <description></description>
     </item>
     
